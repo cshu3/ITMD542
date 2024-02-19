@@ -34,7 +34,7 @@ router.post('/add', function(req, res, next) {
 router.get('/:uuid', function(req, res, next) {
   const contact = contactsRepo.findById(req.params.uuid);
   if (contact) {
-    res.render('contact', { title: 'Your Contact', contact: contact} );
+    res.render('contact', { title: 'Contact Detail', contact: contact} );
   } else {
     res.redirect('/contacts');
   }

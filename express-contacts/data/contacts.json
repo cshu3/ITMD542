@@ -32,5 +32,17 @@
             "created_date": "2024-02-18T11:47:45.625Z",
             "updated_date": "2024-02-18T11:48:36.729Z"
         }
+    ],
+    [
+        "32cef3aa-4230-4e13-9877-2c99af3e8a61",
+        {
+            "id": "32cef3aa-4230-4e13-9877-2c99af3e8a61",
+            "firstname": "Yuhan",
+            "lastname": "Ding",
+            "email": "yding996@iit.edu",
+            "notes": "Faculty Member: Icenter",
+            "created_date": "2024-02-19T01:49:34.145Z",
+            "updated_date": "2024-02-19T01:50:22.929Z"
+        }
     ]
 ]
